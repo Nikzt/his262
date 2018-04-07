@@ -1,0 +1,107 @@
+---
+title: HIS262 Exam Notes
+author: Bence Linder
+output: pdf_document
+---
+
+\tableofcontents
+
+# Events
+
+ * Wendat and Anishinaabe make their first alliance with Champlain and the French (battle at "Lake Champlain")
+
+ * Arrival of filles du roi, or King’s daughters
+
+ * Start of the Seven Years War
+
+ * Treaty of Niagara
+
+ * End of the American Revolution
+
+ * Treaty of Ghent
+
+ * Rebellion in Lower Canada
+
+ * Confederation (British North America Act)
+
+ * Manitoba enters Confederation
+
+ * Indian Act
+
+ * Year Canadian Pacific Railway completed
+
+ * Election of Canada's first French-Canadian Prime Minister
+
+ * Continuous Journey Legislation
+
+ * Start of World War I
+
+ * Women get the right to vote in federal elections
+
+ * Winnipeg General Strike
+
+ * Chinese Immigration Act (version known as the Chinese Exclusion Act)
+
+ * The Persons Case decision
+
+ * Start of the Great Depression in Canada
+
+ * Years of World War II (range)
+
+ * First Nations Right to Vote in Federal Elections Without Loss of Treaty Status
+
+ * Signing of Autopact
+
+ * White Paper "Statement of the Government of Canada on Indian Policy" 
+
+ * Repatriation of the Constitution
+
+ * 2nd referendum on Sovereignty
+
+ * Signing of NAFTA 
+
+ * Nunavut becomes a territory
+
+ * 9/11
+
+ * Civil Marriage Act
+
+ * Truth and Reconciliation Commission Final Report 
+
+# A Very Short History of Canada
+
+# Indigenous Civilizations: Canada Before 1500
+
+# Colonization: But Not Conquest
+
+# And Then the Armies Marched
+
+# Imagining a Nation
+
+# From Colony to Colonizer
+
+# The Long Journey to Independence
+
+# Elections and Governing
+
+# Wealth and Power, Boom and Bust
+
+# Histories of Federal/Provincial Relations
+
+# Canada at War
+
+# Living With Our Neighbor Next Door
+
+# Histories of Imigration in Canada
+
+# Canada and Ideas of the North
+
+# Quebec in Confederation
+
+# The Constitution in Action and the Role of the Courts
+
+# Commemoration in Canada: Narratives, Nationalism, and Resistance
+
+# "Honor the Treaties"
+
+# Canada in the Digital Age
