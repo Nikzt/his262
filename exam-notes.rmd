@@ -1,107 +1,285 @@
 ---
 title: HIS262 Exam Notes
 author: Bence Linder
+header-includes:
+  - \usepackage{array}
+  - \usepackage{color}
 output: pdf_document
 ---
-
 \tableofcontents
 
-# Events
+# Wendat and Anishinaabe make their first alliance with Champlain and the French (battle at "Lake Champlain")
 
- * Wendat and Anishinaabe make their first alliance with Champlain and the French (battle at "Lake Champlain")
+\nointerlineskip
+\textcolor[RGB]{220,220,220}{\hrulefill}
 
- * Arrival of filles du roi, or King’s daughters
+\nointerlineskip
 
- * Start of the Seven Years War
+# Arrival of filles du roi, or King’s daughters
 
- * Treaty of Niagara
+\nointerlineskip
+\textcolor[RGB]{220,220,220}{\hrulefill}
 
- * End of the American Revolution
+\nointerlineskip
 
- * Treaty of Ghent
+# Start of the Seven Years War
 
- * Rebellion in Lower Canada
+\nointerlineskip
+\textcolor[RGB]{220,220,220}{\hrulefill}
 
- * Confederation (British North America Act)
+\nointerlineskip
 
- * Manitoba enters Confederation
+# Treaty of Niagara
 
- * Indian Act
+\nointerlineskip
+\textcolor[RGB]{220,220,220}{\hrulefill}
 
- * Year Canadian Pacific Railway completed
+\nointerlineskip
 
- * Election of Canada's first French-Canadian Prime Minister
+In 1764, this treaty transferred possession of a narrow four mile strip of land by the Niagara River's western shore, as well as established the relationship that was supposed to be honoured by the new settlers moving into what would become Canada. This treaty signaled the assembled Indigenous Nations ratification of the Royal Proclamation of 1763 and extended the Silver Covenant Chain of Friendship into the Great Lakes Region of the continent.
 
- * Continuous Journey Legislation
+The Royal Proclamation of 1763 established the British definition of Indian Country. On these lands the Crown claimed sovereignty but it also decreed that the land was to be considered in the possession of the Indigenous peoples who occupied them. Consequently, in order to transfer ownership of the land to the Crown through the surrendering of the land from the indigenous peoples, Great Britain began formalizing the Treaty of Niagara with the First Nations on July 8, 1764, through this Treaty Council. In protest, the Ottawa of Detroit, the Wyandot of Sandusky, and the Lenape and Shawnee of the Ohio refused to attend the Treaty Council. This treaty created a new Covenant Chain between Britain and the First Nations of the western Great Lakes. During the War of 1812, Nations involved with this treaty allied themselves with the British, as the Nations believed the treaty bound them to the British cause.
 
- * Start of World War I
 
- * Women get the right to vote in federal elections
 
- * Winnipeg General Strike
+# End of the American Revolution
 
- * Chinese Immigration Act (version known as the Chinese Exclusion Act)
+\nointerlineskip
+\textcolor[RGB]{220,220,220}{\hrulefill}
 
- * The Persons Case decision
+\nointerlineskip
 
- * Start of the Great Depression in Canada
+# Treaty of Ghent
 
- * Years of World War II (range)
+\nointerlineskip
+\textcolor[RGB]{220,220,220}{\hrulefill}
 
- * First Nations Right to Vote in Federal Elections Without Loss of Treaty Status
+\nointerlineskip
 
- * Signing of Autopact
+# Rebellion in Lower Canada
 
- * White Paper "Statement of the Government of Canada on Indian Policy" 
+\nointerlineskip
+\textcolor[RGB]{220,220,220}{\hrulefill}
 
- * Repatriation of the Constitution
+\nointerlineskip
 
- * 2nd referendum on Sovereignty
+# Confederation (British North America Act)
 
- * Signing of NAFTA 
+\nointerlineskip
+\textcolor[RGB]{220,220,220}{\hrulefill}
 
- * Nunavut becomes a territory
+\nointerlineskip
 
- * 9/11
+### Overview
 
- * Civil Marriage Act
+The Constitution Act, 1867, originally known as the British North America Act (BNA Act) was the law passed by the British Parliament creating the Dominion of Canada at Confederation.
 
- * Truth and Reconciliation Commission Final Report 
+The BNA Act was enacted on 29 March 1867. It provided for the union of three colonies — the Province of Canada (Ontario and Québec), Nova Scotia and New Brunswick — into a federal state with a parliamentary system modelled on that of Britain.
 
-# A Very Short History of Canada
+Rupert's Land was acquired in 1870, and six provinces were added to the original four: Manitoba (1870), British Columbia (1871), Prince Edward Island (1873), Alberta and Saskatchewan (1905), and Newfoundland (1949).
 
-# Indigenous Civilizations: Canada Before 1500
+### Division of Power
 
-# Colonization: But Not Conquest
+\begin{tabular}{| m{6cm} | m{7cm} |}
+\hline
+\textbf{Federal (Section 91)} & \textbf{Provincial (Section 92)} \\
+\hline
+\hline
+Defense & education, (crown) public lands \\
+\hline
+trade and commerce & municipal institutions \\
+\hline
+direct and indirect taxation & direct taxation \\
+\hline
+currency & tavern and other licenses \\
+\hline
+navigation and shipping & local public works \\
+\hline
+"Indian" Affairs & solemnization of marriage \\
+\hline
+bankruptcy & property and civil rights \\
+\hline
+make laws for "peace order and good government" & "Generally all matters of a merely local or private nature in the province" \\
+\hline
+\end{tabular}
 
-# And Then the Armies Marched
+# Manitoba enters Confederation
 
-# Imagining a Nation
+\nointerlineskip
+\textcolor[RGB]{220,220,220}{\hrulefill}
 
-# From Colony to Colonizer
+\nointerlineskip
 
-# The Long Journey to Independence
+# Indian Act
 
-# Elections and Governing
+\nointerlineskip
+\textcolor[RGB]{220,220,220}{\hrulefill}
 
-# Wealth and Power, Boom and Bust
+\nointerlineskip
 
-# Histories of Federal/Provincial Relations
+# Year Canadian Pacific Railway completed
 
-# Canada at War
+\nointerlineskip
+\textcolor[RGB]{220,220,220}{\hrulefill}
 
-# Living With Our Neighbor Next Door
+\nointerlineskip
 
-# Histories of Imigration in Canada
+# Election of Canada's first French-Canadian Prime Minister
 
-# Canada and Ideas of the North
+\nointerlineskip
+\textcolor[RGB]{220,220,220}{\hrulefill}
 
-# Quebec in Confederation
+\nointerlineskip
 
-# The Constitution in Action and the Role of the Courts
+# Continuous Journey Legislation
 
-# Commemoration in Canada: Narratives, Nationalism, and Resistance
+\nointerlineskip
+\textcolor[RGB]{220,220,220}{\hrulefill}
 
-# "Honor the Treaties"
+\nointerlineskip
 
-# Canada in the Digital Age
+# World War I
+
+\nointerlineskip
+\textcolor[RGB]{220,220,220}{\hrulefill}
+
+\nointerlineskip
+
+### Going to War
+
+The Canadian Parliament didn't choose to go to war in 1914. The country's foreign affairs were guided in London. So when Britain's ultimatum to Germany to withdraw its army from Belgium expired on 4 August 1914, the British Empire, including Canada, was at war, allied with Serbia, Russia, and France against the German and Austro-Hungarian empires.
+
+### Defining Moments For Canada
+
+\begin{tabular}{ |m{7cm}|m{7cm}| }
+\hline
+1914 August 4 & At War \\
+\hline
+1914 August 22 & War Measures Act \\
+\hline
+1915 April 22 & Battle of Ypres - use of chlorine gas \\
+\hline
+1916 July 1 & Beaumont Hamel - Newfoundland Regiment \\
+\hline
+1917 April 9 & Battle of Vimy Ridge \\
+\hline
+1917 October 10 & Passchendaele \\
+\hline
+1918 August 8 & Hundred Days \\
+\hline
+1918 November 11 & Armistice \\
+\hline
+\end{tabular}
+
+# Women get the right to vote in federal elections
+
+\nointerlineskip
+\textcolor[RGB]{220,220,220}{\hrulefill}
+
+\nointerlineskip
+
+# Winnipeg General Strike
+
+\nointerlineskip
+\textcolor[RGB]{220,220,220}{\hrulefill}
+
+\nointerlineskip
+
+# Chinese Immigration Act (version known as the Chinese Exclusion Act)
+
+\nointerlineskip
+\textcolor[RGB]{220,220,220}{\hrulefill}
+
+\nointerlineskip
+
+# The Persons Case decision
+
+\nointerlineskip
+\textcolor[RGB]{220,220,220}{\hrulefill}
+
+\nointerlineskip
+
+# Start of the Great Depression in Canada
+
+\nointerlineskip
+\textcolor[RGB]{220,220,220}{\hrulefill}
+
+\nointerlineskip
+
+# Years of World War II (range)
+
+\nointerlineskip
+\textcolor[RGB]{220,220,220}{\hrulefill}
+
+\nointerlineskip
+
+# First Nations Right to Vote in Federal Elections Without Loss of Treaty Status
+
+\nointerlineskip
+\textcolor[RGB]{220,220,220}{\hrulefill}
+
+\nointerlineskip
+
+# Signing of Autopact
+
+\nointerlineskip
+\textcolor[RGB]{220,220,220}{\hrulefill}
+
+\nointerlineskip
+
+# White Paper "Statement of the Government of Canada on Indian Policy" 
+
+\nointerlineskip
+\textcolor[RGB]{220,220,220}{\hrulefill}
+
+\nointerlineskip
+
+# Repatriation of the Constitution
+
+\nointerlineskip
+\textcolor[RGB]{220,220,220}{\hrulefill}
+
+\nointerlineskip
+
+# 2nd referendum on Sovereignty
+
+\nointerlineskip
+\textcolor[RGB]{220,220,220}{\hrulefill}
+
+\nointerlineskip
+
+# Signing of NAFTA 
+
+\nointerlineskip
+\textcolor[RGB]{220,220,220}{\hrulefill}
+
+\nointerlineskip
+
+# Nunavut becomes a territory
+
+\nointerlineskip
+\textcolor[RGB]{220,220,220}{\hrulefill}
+
+\nointerlineskip
+
+# 9/11
+
+\nointerlineskip
+\textcolor[RGB]{220,220,220}{\hrulefill}
+
+\nointerlineskip
+
+# Civil Marriage Act
+
+\nointerlineskip
+\textcolor[RGB]{220,220,220}{\hrulefill}
+
+\nointerlineskip
+
+# Truth and Reconciliation Commission Final Report 
+
+\nointerlineskip
+\textcolor[RGB]{220,220,220}{\hrulefill}
+
+\nointerlineskip
+
