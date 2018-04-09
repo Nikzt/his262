@@ -6,35 +6,43 @@ header-includes:
   - \usepackage{color}
 output: pdf_document
 ---
+\newcommand{\tline}{
+\nointerlineskip
+\textcolor[RGB]{150,150,150}{\hrulefill}
+
+\nointerlineskip}
 \tableofcontents
 
 # Wendat and Anishinaabe make their first alliance with Champlain and the French (battle at "Lake Champlain")
 
-\nointerlineskip
-\textcolor[RGB]{220,220,220}{\hrulefill}
+\tline
 
-\nointerlineskip
+During the summer of 1609, Samuel de Champlain attempted to form better relations with the local native tribes. He made alliances with the Wendat (called Huron by the French) and with the Algonquin, the Montagnais and the Etchemin, who lived in the area of the St. Lawrence River. These tribes demanded that Champlain help them in their war against the Iroquois, who lived further south. Champlain set off with 9 French soldiers and 300 natives to explore the Rivière des Iroquois (now known as the Richelieu River), and became the first European to map Lake Champlain. Having had no encounters with the Iroquois at this point many of the men headed back, leaving Champlain with only 2 Frenchmen and 60 natives.
+
 
 # Arrival of filles du roi, or King’s daughters
 
-\nointerlineskip
-\textcolor[RGB]{220,220,220}{\hrulefill}
+\tline
 
-\nointerlineskip
+The King's Daughters (French: filles du roi; filles du roy) is a term used to refer to the approximately 800 young French women who immigrated to New France between 1663 and 1673 as part of a program sponsored by Louis XIV. The program was designed to boost New France's population both by encouraging male immigrants to settle there, and by promoting marriage, family formation and the birth of children.
+
+The women disembarked in Quebec City, Trois-Rivières, and Montreal. After their arrival, their time to find husbands varied greatly. For some, it was as short as a few months, while others took two or three years before finding an appropriate husband. For the process of choosing a husband, and the marriage, most couples would officially get engaged in church, with their priest and witnesses present.
 
 # Start of the Seven Years War
 
-\nointerlineskip
-\textcolor[RGB]{220,220,220}{\hrulefill}
+\tline
 
-\nointerlineskip
+The Seven Years War (1756–63) was the first global war, fought in Europe, India, and America, and at sea. In North America, imperial rivals Britain and France struggled for supremacy. Early in the war, the French (aided by Canadian militia and Aboriginal allies) defeated several British attacks and captured a number of British forts.
+
+With the Treaty of Paris of 1763, France formally ceded Canada to the British. The Seven Years’ War therefore laid the bicultural foundations of modern Canada.
+
+The war was driven by the commercial and imperial rivalry between Britain and France, and by the antagonism between Prussia (allied to Britain) and Austria (allied to France). In Europe, Britain sent troops to help its ally, Prussia, which was surrounded by its enemies. However, the main British war aim was to destroy France as a commercial rival, and they therefore focused on attacking the French navy and colonies overseas.
+
+
 
 # Treaty of Niagara
 
-\nointerlineskip
-\textcolor[RGB]{220,220,220}{\hrulefill}
-
-\nointerlineskip
+\tline
 
 In 1764, this treaty transferred possession of a narrow four mile strip of land by the Niagara River's western shore, as well as established the relationship that was supposed to be honoured by the new settlers moving into what would become Canada. This treaty signaled the assembled Indigenous Nations ratification of the Royal Proclamation of 1763 and extended the Silver Covenant Chain of Friendship into the Great Lakes Region of the continent.
 
@@ -44,31 +52,43 @@ The Royal Proclamation of 1763 established the British definition of Indian Coun
 
 # End of the American Revolution
 
-\nointerlineskip
-\textcolor[RGB]{220,220,220}{\hrulefill}
+\tline
 
-\nointerlineskip
+In 1775 at the start of the American Revolution, rebel forces invaded Canada, occupying Montréal and attacking the town of Québec.
+
+The Americans abandoned Montréal on 9 May, 1776 and the remains of the force was defeated at Trois Rivieres in June. The survivors then retreated to New York, ending their invasion.
+
+The American invasion left bitter memories among Canadians, and drove many American sympathizers into exile from Québec. However, there had been little active support for the American rebels: clergy and land owners remained staunchly loyal to the Crown and, after some delay in choosing sides, so did the merchant class – many of whom had shared the American resentment at having to pay taxes to Britain.
+
+The American invaders had expected French Canadians to pick up arms against the British and fight alongside them, but they badly misjudged Canadian sentiment. Most ordinary habitants remained determinedly neutral – refusing to take up arms against either their British rulers, or the American rebels.
+
+The main consequence for the British colonies to the north was the emergence of a republican state – a powerful, continental neighbour of whom Canadians, Maritimers and their colonial rulers would remain suspicious for decades to come.
+
+The Revolution also triggered the exodus of more than 80,000 Loyalist refugees out of the United States, about half of whom migrated into Québec and the Maritimes. Loyalist settlement greatly influenced the politics and culture of what would eventually become the nation of Canada, and determined that its development would differ profoundly from the United States.
 
 # Treaty of Ghent
 
-\nointerlineskip
-\textcolor[RGB]{220,220,220}{\hrulefill}
+\tline
 
-\nointerlineskip
+Treaty of Ghent, signed in Ghent, Belgium, on Christmas Eve 1814 by Great Britain and the US to end the War of 1812. Negotiations for peace had begun the previous year, with both parties agreeing to meet in Europe to work out the details.
+
+What emerged from this peace was the survival of Upper and Lower Canada as part of British North America, and with it a growing sense of identity different from that of their American neighbours and, indeed, the Imperial motherland. Washington had hoped that the once-American populations of Upper and Lower Canada would rise up and side with the invading forces, a hope that was never realized. For the Canadas, the war also bred the infamous "militia myth," that the chief battles had been won by and large by part-time citizen soldiers, which thus negated the need for the colonies to invest in professional soldiers. This myth, which downplayed the incredible influence of career soldiers like Isaac Brock and First Nation chiefs like Tecumseh, would continue to influence military affairs in Canada until the First World War.
+
+
 
 # Rebellion in Lower Canada
 
-\nointerlineskip
-\textcolor[RGB]{220,220,220}{\hrulefill}
+\tline
 
-\nointerlineskip
+French Canadian militants in Lower Canada took up arms against the British Crown in a pair of insurrections in 1837 and 1838. The twin rebellions, which killed more than 300 people, followed years of tensions between the colony's anglophone minority and the growing, nationalistic aspirations of its francophone majority.
+
+The influence of the radicals in the colony was eventually undermined, and more moderate leaders, such as Louis-Hippolyte LaFontaine, reconstructed the reform movement. The rebellions, and their more limited counterpart in 1837 in Upper Canada, led directly to the appointment of Lord Durham and the Durham Report, which recommended that the Canadas be united into one colony, as the British minority in Lower Canada — particularly the merchant class — had long demanded. This in turn led to the introduction of what became known as responsible government.
+
+
 
 # Confederation (British North America Act)
 
-\nointerlineskip
-\textcolor[RGB]{220,220,220}{\hrulefill}
-
-\nointerlineskip
+\tline
 
 ### Overview
 
@@ -105,45 +125,66 @@ make laws for "peace order and good government" & "Generally all matters of a me
 
 # Manitoba enters Confederation
 
-\nointerlineskip
-\textcolor[RGB]{220,220,220}{\hrulefill}
+\tline
 
-\nointerlineskip
+Manitoba became Canada's fifth province when it entered Confederation in 1870, after a massive land transfer, a violent rebellion and a famous execution.
+
+The United States purchased Alaska from Russia in 1867, prompting fears in the Canadian and British governments that an expansionist US would try to take control of all the territory west and north of the Dominion of Canada — including Rupert's Land.
+
+Determined that Rupert's Land should be Canadian, the government of Prime Minister John A. Macdonald, with help from Britain, purchased the territory from the Hudson's Bay Company. No residents of the area — including the First Nations, Métis and Europeans in Manitoba — were consulted about the transfer to Canada.
+
+Although many Aboriginal people opposed the transfer, the stiffest resistance came from the Métis of the Red River Colony, who feared the loss of their land, their Roman Catholic religion, and their culture under Canadian control. In 1869, under Louis Riel, the Métis declared their own provisional government, which announced that it would negotiate the colony's terms of entry into Confederation. A group of Protestants from Ontario, including Thomas Scott, disagreed with Riel’s group. Scott was court-martialed by Riel and executed by firing squad.
+
+After a long standoff and lengthy negotiations in Ottawa, the resistance came to an end and the Red River colonists agreed to enter Confederation. The Manitoba Act of 1870 gave the Dominion of Canada the lands it wanted, created Manitoba as a province, and granted the Métis title to their lands on the Assiniboine and Red Rivers.
+
+
+
+
 
 # Indian Act
 
-\nointerlineskip
-\textcolor[RGB]{220,220,220}{\hrulefill}
+\tline
 
-\nointerlineskip
+The Indian Act is the principal statute through which the federal government administers Indian status, local First Nations governments and the management of reserve land and communal monies. It was first introduced in 1876 as a consolidation of previous colonial ordinances that aimed to eradicate First Nations culture in favour of assimilation into Euro-Canadian society. The Act has been amended several times, most significantly in 1951 and 1985, with changes mainly focusing on the removal of particularly discriminatory sections.
+
+The Indian Act pertains only to First Nations peoples, not to the Métis or Inuit. It is an evolving, paradoxical document that has enabled trauma, human rights violations and social and cultural disruption for generations of First Nations peoples. The Act also outlines governmental obligations to First Nations peoples, and determines “status” — a legal recognition of a person’s First Nations heritage, which affords certain rights such as the right to live on reserve land.
+
+
+
 
 # Year Canadian Pacific Railway completed
 
-\nointerlineskip
-\textcolor[RGB]{220,220,220}{\hrulefill}
+\tline
 
-\nointerlineskip
+The Canadian Pacific Railway company was incorporated in 1881. Its original purpose was the construction of a transcontinental railway, a promise to British Columbia upon its entry into Confederation. The railway — completed in 1885 — connected Eastern Canada to BC and played an important role in the development of the nation. Built in dangerous conditions by thousands of labourers (including 15,000 Chinese temporary workers), the railway facilitated communications and transportation across the country.
+
+While the railway was completed four years after the original 1881 deadline, it was completed more than five years ahead of the new date of 1891 that Macdonald gave in 1881. The successful construction of such a massive project, although troubled by delays and scandal, was considered an impressive feat of engineering and political will for a country with such a small population, limited capital, and difficult terrain. It was by far the longest railway ever constructed at the time. It had taken 12,000 men and 5,000 horses to construct the Lake section alone.
 
 # Election of Canada's first French-Canadian Prime Minister
 
-\nointerlineskip
-\textcolor[RGB]{220,220,220}{\hrulefill}
+\tline
 
-\nointerlineskip
+Sir Wilfrid Laurier, prime minister of Canada 1896–1911, lawyer, journalist, politician (born 20 November 1841 in St-Lin, Canada East; died 17 February 1919 in Ottawa, ON ). As leader of the Liberal Party 1887–1919 and prime minister 1896–1911, Laurier was the dominant political figure of his era.
+
+From 1887 on, Laurier devoted himself to building a truly national party and to regaining power gradually. His efforts were divided into two distinct phases. The first and less successful, 1887–91, emphasized the policy of unrestricted reciprocity with the United States; announced in 1888, the program was rejected in the 1891 general election. Perceived as a continentalist and as anti-British, Laurier was rejected by the Canadian electorate even though, for the first time since 1874, Québec gave a majority of its seats to the Liberals.
+
+The second more fruitful phase took place between 1891 and 1896; this was the period when Laurier, more sure of himself, built a strong national Liberal Party while the Conservatives, after the death of Sir John A. Macdonald, were mired in difficulties. In 1893, Laurier organized an impressive political convention in Ottawa, which approved a new program and the basis for a truly national structure. In the 1896 election, the education rights of the Catholic minority in Manitoba became an important issue; in 1890, Manitoba Liberals had established a uniform school system in place of the separate school system enjoyed to that point, prompting protest from the Catholic minority (see Manitoba Schools Question). Laurier avoided taking a definite stand, but French Canadians believed he would be more supportive of minority rights than the Conservatives would. On 23 June 1896, Canadians chose Laurier over Conservative Charles Tupper to lead their country as prime minister.
+
+
 
 # Continuous Journey Legislation
 
-\nointerlineskip
-\textcolor[RGB]{220,220,220}{\hrulefill}
+\tline
 
-\nointerlineskip
+The “continuous journey regulation” was as an amendment to the Immigration Act in 1908, prohibiting the landing of any immigrant that did not come to Canada by continuous journey from the country of which they were natives or citizens. Immigrants were required to purchase a through ticket to Canada from their country of origin or otherwise be denied entry. In practice, this regulation primarily affected immigrants from India and Japan since the main immigration routes from those countries did not offer direct passage to Canada.
+
+The government enacted this legislation in response to a report submitted by Deputy Minister of Labour William Lyon Mackenzie King investigating an influx of Asian labourers in Canada.
+
+The continuous journey regulation allowed the government to restrict both Indian and Japanese immigration without specifying exclusion on the basis of race, nationality or ethnic origins. Canadian Pacific was the only shipping company offering direct steamship service from India to Canada, but following the passage of the regulation, the government prohibited the sale of through tickets to Canada.[5] The regulation also successfully closed off the Hawaiian route for Japanese immigration.
 
 # World War I
 
-\nointerlineskip
-\textcolor[RGB]{220,220,220}{\hrulefill}
-
-\nointerlineskip
+\tline
 
 ### Going to War
 
@@ -173,113 +214,191 @@ The Canadian Parliament didn't choose to go to war in 1914. The country's foreig
 
 # Women get the right to vote in federal elections
 
-\nointerlineskip
-\textcolor[RGB]{220,220,220}{\hrulefill}
+\tline
 
-\nointerlineskip
+During the First World War, pressure mounted on federal politicians in the Conservative — later the Union Government (1917) — of Sir Robert Borden. The government wished both to acknowledge women’s contribution to the war effort and to appeal to future female voters by extending the franchise; it also wanted to firm up support for conscription. The government also feared that voters who were born in countries with which Canada was at war would oppose conscription, especially men born in those countries. In the controversial Military Voters Act and Wartime Elections Act of 1917, the federal vote was extended to nursing sisters (women serving in the Canadian Army Medical Corps) and to close female relatives of military men.
+
+Once conscription was secured, the government began to argue that women had earned the right to vote through their war work. On 24 May 1918, female citizens, not included under racial or Indigenous exclusions, aged 21 and over became eligible to vote in federal elections regardless of whether they had yet attained the provincial franchise.
+
+
 
 # Winnipeg General Strike
 
-\nointerlineskip
-\textcolor[RGB]{220,220,220}{\hrulefill}
+\tline
 
-\nointerlineskip
+An eerie calm descended on the streets of Winnipeg on the morning of May 15, 1919. The street cars and delivery wagons lay idle. Some 50,000 tradesmen, labourers, city and provincial employees had walked off the job, leaving the city paralyzed. It was North America's first "general strike."
+
+With the horrors of World War I at an end, workers throughout the Western democracies began agitating for change. While they had delayed their demands during the war out of patriotic duty, they believed that the business classes had grown fat on their labour and on profiteering.
+
+Now labour leaders were preaching the use of the "general strike" and "one big union" to fight for recognition and better wages. When owners in Winnipeg refused to deal with the striking metal and building trades, the Winnipeg Trades and Labour Council (TLC) voted overwhelmingly to call out all their members in support. To the business classes this smacked of revolution. To the police it was seditious conspiracy. For the press it was proof of "Bolshevism" and the poisonous influences of "foreign" elements in the city's north end.
+
+Though there had been no sign of violence, on June 5 the police commissioner ordered the enrollment of 2000 special police. T. Eaton Company supplied the men with horses and baseball bats.
+
+On June 10 some 1800 "specials" fanned out across the city and descended on a crowd gathered at Portage and Main. They rode into the crowds swinging their clubs. The violent confrontation allowed the press to vent its spleen on the "aliens," "bohunks" and "foreigners" who had caused this "riot."
+
 
 # Chinese Immigration Act (version known as the Chinese Exclusion Act)
 
-\nointerlineskip
-\textcolor[RGB]{220,220,220}{\hrulefill}
+\tline
 
-\nointerlineskip
+The Chinese Immigration Act of 1923, known also as the Chinese Exclusion Act, banned the entry of virtually all Chinese immigrants for 24 years. Although migration into Canada from most countries was controlled or restricted in some way, only Chinese people were singled out completely from entering on the basis of race. The four exceptions to the exclusion were students, merchants (excluding laundry, restaurant and retail operators), diplomats and Canadian-born Chinese returning from education in China. The limit on absence from Canada was two years, and the consequence for not returning on time was being barred re-entry. Additionally, every person of Chinese descent, whether Canadian-born or naturalized, was required to register for an identity card within 12 months. The penalty for noncompliance was imprisonment or a fine of up to $500. Though the Act was repealed in 1947, immigration restrictions on the basis of race and national origin were not fully scrubbed until 1967.
+
+After the completion of the CPR, agitation against the “yellow peril” gathered momentum, resulting in over 100 provincial laws and policies that restricted the rights of Chinese residents. (The “yellow peril” reference to Chinese and Japanese people originated in the late 1800s after they arrived as labourers in the United States and Canada; it expressed Western prejudice towards East Asian immigrants.) The Canadian government’s most racist and exclusionary law, however, was the Chinese Immigration Act of 1885. Under that law, a $50 head tax was levied on all Chinese immigrants. The head tax was increased to $100 in 1900 and to $500 in 1903. It became clear that this punitive entry fee did not discourage Chinese immigration, as intended. The Chinese population tripled during the head-tax era, from 13,000 in 1885 to 39,587 in 1921. A harsher solution was required: exclusion.
 
 # The Persons Case decision
 
-\nointerlineskip
-\textcolor[RGB]{220,220,220}{\hrulefill}
+\tline
 
-\nointerlineskip
+The Persons Case (officially Edwards v. A.G. of Canada) was a constitutional ruling that established the right of women to be appointed to the Senate. The case was initiated by the Famous Five, a group of prominent women activists. In 1928, the Supreme Court of Canada ruled that women were not “persons” according to the British North America Act and therefore were ineligible for appointment to the Senate. However, the women appealed to the Privy Council of England, which in 1929 reversed the Court’s decision. The Persons Case opened the Senate to women, enabling them to work for change in both the House of Commons and the Upper House. Moreover, the legal recognition of women as “persons” meant that women could no longer be denied rights based on a narrow interpretation of the law.
+
+
 
 # Start of the Great Depression in Canada
 
-\nointerlineskip
-\textcolor[RGB]{220,220,220}{\hrulefill}
+\tline
 
-\nointerlineskip
+The worldwide Great Depression of the early 1930s was a social and economic shock that left millions of Canadians unemployed, hungry and often homeless. Few countries were affected as severely as Canada during what became known as the Dirty Thirties, due to Canada’s heavy dependence on raw material and farm exports, combined with a crippling Prairies drought.
+
+Widespread losses of jobs and savings ultimately transformed the country by triggering the birth of social welfare, a variety of populist political movements, and a more activist role for government in the economy.
+
+Economists still debate whether a specific event might have sparked the Great Depression, such as the 1929 crash of the Wall Street stock market. However, there is general consensus that the Depression was the result of widespread drops in world commodity prices and sudden declines in economic demand and credit, leading to rapid declines in global trade and rising unemployment.
+
+In Canada the changes were dramatic. Between 1929 and 1933 the country’s Gross National Expenditure [overall public and private spending] fell by 42%. By 1933, 30% of the labour force was out of work, and one in five Canadians had become dependent upon government relief for survival. The unemployment rate would remain above 12% until the start of the Second World War in 1939.
+
+
 
 # Years of World War II (range)
 
-\nointerlineskip
-\textcolor[RGB]{220,220,220}{\hrulefill}
+\tline
 
-\nointerlineskip
+The Second World War was a defining event in Canadian history, transforming a quiet country on the fringes of global affairs into a critical player in the 20th century's most important struggle. Canada carried out a vital role in the Battle of the Atlantic and the air war over Germany, and contributed forces to the campaigns of western Europe beyond what might be expected of a small nation of then only 11 million people.
+
+\begin{tabular}{|m{5cm}|m{8cm}|}
+\hline
+\textbf{Date} & \textbf{Event} \\
+\hline
+\hline
+1939 Sep 1 & World War II Begins \\
+\hline
+1939 Sep 10 & Canada Declares War on Germany \\
+\hline
+1939 Dec 10 & First Troops Sail for Britain \\
+\hline
+1940 Jun 21 & National Resources Mobilization Act and Conscription Act Passed \\
+\hline
+1941 Apr 20 & Hyde Park Declaration \\
+\hline
+1941 Jun 27 & Women Can Now Enlist in Army \\
+\hline
+1941 Dec 12 & Pearl Harbor, Canada Declares War on Romania, Hungary, Finland, and Japan \\
+\hline
+1943 Jul 10 & Canada Participates in Invasion of Sicily \\
+\hline
+1943 Aug 17 & Quebec War Conference \\
+\hline
+1944 Sep 1 & Liberation of Dieppe \\
+\hline
+1945 May 7 & End of WWII in Europe \\
+\hline
+1945 Jun 26 & Canada Joins UN \\
+\hline
+\end{tabular}
 
 # First Nations Right to Vote in Federal Elections Without Loss of Treaty Status
 
-\nointerlineskip
-\textcolor[RGB]{220,220,220}{\hrulefill}
+\tline
 
-\nointerlineskip
+Through a process called enfranchisement First Nations people could give up their Indian status and vote in federal elections as early as 1867. (A status Indian is an individual registered under the Indian Act, it is a legal recognition of a person’s First Nations heritage and it affords certain rights such as the right to live on reserve land.)
+
+Non-status Indians received full voting rights at the provincial level, starting in British Columbia in 1949 and ending with Québec in 1969. The federal franchise was first extended to non-status Indians in 1950. The franchise fully extended to status Indians in 1960 under the John Diefenbaker administration, 12 years after a parliamentary committee recommended that First Nations be fully enfranchised.
+
+
 
 # Signing of Autopact
 
-\nointerlineskip
-\textcolor[RGB]{220,220,220}{\hrulefill}
+\tline
 
-\nointerlineskip
+The Automotive Products Trade Agreement of 1965, better known as the Canada-US Auto Pact, led to the integration of the Canadian and US auto industries in a shared North American market. While it brought great benefits to Canada, it was eventually found to be contrary to international trade rules and was cancelled in 2001. By then it had accomplished its biggest goal — an integrated North American industry with a much stronger Canadian presence.
+
+After intensive diplomatic negotiations through the summer and fall of 1964, the two countries reached a compromise agreement. The resulting Auto Pact was a managed trade agreement that limited which companies could benefit, and imposed ongoing conditions or safeguards to ensure growth of the industry in Canada. The Americans had sought a free trade agreement, but Canada wanted an agreement with safeguards. A pure free trade agreement, Canada argued, would lead to a much diminished auto industry in Canada since all the key investment and production decisions would be made in the United States.
+
+The agreement was signed at the LBJ Ranch in Johnson City, Texas, on 16 January 1965 by President Lyndon Johnson and Secretary of State Dean Rusk for the United States, and Prime Minister Lester Pearson and External Affairs Minister Paul Martin Sr. for Canada.
+
+It was a short document that sought “the creation of a broader market for automotive products within which the full benefits of specialization and large-scale production can be achieved.” The overarching goal, it said, was “the development of conditions in which market forces may operate efficiently to attain the most economic pattern of investment, production and trade.”
+
+
 
 # White Paper "Statement of the Government of Canada on Indian Policy" 
 
-\nointerlineskip
-\textcolor[RGB]{220,220,220}{\hrulefill}
+\tline
 
-\nointerlineskip
+The 1969 White Paper (formally known as the “Statement of the Government of Canada on Indian Policy, 1969”) was a Canadian government policy paper that attempted to abolish previous legal documents pertaining to Indigenous peoples in Canada, including the Indian Act and treaties, and assimilate all “Indian” peoples under the Canadian state.
+
+Trudeau and Chrétien’s White Paper proposed to eliminate “Indian” as a distinct legal status – therefore making First Nations “equal” to other Canadians. They also proposed to dismantle the Department of Indian Affairs within five years, repeal the Indian Act, and eradicate all treaties between First Nations and Canada. The White Paper would convert reserve lands to private property owned by the band or its members, transfer all responsibility for services to provincial governments, appoint a commissioner to settle all land claims and provide funds for economic development. At the same time, Chrétien and Trudeau saw the White Paper as a way of eliminating the rising cost of administering Indian Affairs and treaty responsibilities.
+
+
 
 # Repatriation of the Constitution
 
-\nointerlineskip
-\textcolor[RGB]{220,220,220}{\hrulefill}
+\tline
 
-\nointerlineskip
+In 1982 Canada "patriated" its Constitution, transferring the country's highest law, the British North America Act, from the authority of the British Parliament — a connection from the colonial past ­— to Canada's federal and provincial legislatures.
+
 
 # 2nd referendum on Sovereignty
 
-\nointerlineskip
-\textcolor[RGB]{220,220,220}{\hrulefill}
+\tline
 
-\nointerlineskip
+The 1995 Quebec independence referendum was the second referendum to ask voters in the Canadian French-speaking province of Quebec whether Quebec should proclaim national sovereignty and become an independent country, with the condition precedent of offering a political and economic agreement to Canada.
+
+
 
 # Signing of NAFTA 
 
-\nointerlineskip
-\textcolor[RGB]{220,220,220}{\hrulefill}
+\tline
 
-\nointerlineskip
+The North American Free Trade Agreement (NAFTA) is an economic pact between Canada, the United States and Mexico. Designed to eliminate all trade and investment barriers between the three countries, the agreement came into force on 1 January 1994. In addition to being one of the most ambitious trade agreements in history, NAFTA also created the world’s largest free trade area. It brought together two wealthy developed countries (Canada and the United States) with a less developed state (Mexico). The agreement built on the earlier Canada-US Free Trade Agreement (CUSFTA), which came into effect on 1 January 1989. After NAFTA was signed, trade and investment relations between the three countries expanded rapidly, but political co-operation remained weak. NAFTA continues to be controversial, particularly in the United States. Recently elected US president Donald Trump has threatened to renegotiate or cancel the deal.
 
 # Nunavut becomes a territory
 
-\nointerlineskip
-\textcolor[RGB]{220,220,220}{\hrulefill}
+\tline
 
-\nointerlineskip
+In the late 1960s and early 1970s, Inuit across the Canadian Arctic started to organize to discuss land claims and better governance options.
+
+First the NWT Inuit Land Claims Commission (1977), then the Nunavut Land Claims Project (1979) and finally the Tunngavik Federation of Nunavut (1982) were formed to deal with the land claims negotiations. In these negotiations, Inuit consistently clashed with the federal government over whether the land claims should include the political division of the Northwest Territories, leading to the creation of a new territory.
+
+An agreement-in-principle on the land-claims settlement was finally reached in 1990. Members of both the Tunngavik Federation and federal negotiating teams signed this document, the “Nunavut Land Claims Agreement” (NLCA), in September of 1992. It was then put to a plebiscite in October of 1992 and saw a record turnout of voters, who passed the agreement with an overwhelming majority of 84.7 per cent. The Nunavut Land Claims Agreement Act — the largest Indigenous land-claims settlement in Canadian history — which ratified the agreement, and the Nunavut Act, which created the new territory, were both passed on 10 June 1993.
 
 # 9/11
 
-\nointerlineskip
-\textcolor[RGB]{220,220,220}{\hrulefill}
+\tline
 
-\nointerlineskip
+The terrorist attacks in the United States on 11 September 2001 had an immediate and profound impact on Canada. Twenty-four Canadians died in what became known as the "9/11" attacks. When the US closed its airspace, hundreds of planes carrying thousands of passengers were diverted to Canadian airports. In the weeks following, Canada passed controversial anti-terrorism laws and sent its first troops to Afghanistan as part of the “War on Terror.”
+
+The Canadian government enacted a number of new security measures to combat terrorism at home, increasing security at airports, ports and border crossings, as well as enacting new in-flight security rules for airlines.
+
+In 2001, the Liberal government passed controversial legislation called the Anti-Terrorism Act. The law's "preventative arrest" provision allowed police to bring a person suspected of terrorist activity before a judge, who could curtail their freedom — for example, forbidding them from communicating with specific individuals. The law also created "investigative hearings" in which suspected terrorists who had not yet been charged with any crime could be compelled to testify at secret judicial hearings.
+
+These two elements of the legislation had a sunset clause of five years; the rest of the Anti-Terrorism Act remained.
+
+
 
 # Civil Marriage Act
 
-\nointerlineskip
-\textcolor[RGB]{220,220,220}{\hrulefill}
+\tline
 
-\nointerlineskip
+The Civil Marriage Act (full title: An Act respecting certain aspects of legal capacity for marriage for civil purposes) (the Act) was legislation legalizing same-sex marriage across Canada. At the time the bill became law, same-sex marriage had already been legalized by court decisions in all Canadian provinces except Alberta and Prince Edward Island, as well as in the territories of Nunavut and the Northwest Territories.
+
+
 
 # Truth and Reconciliation Commission Final Report 
 
-\nointerlineskip
-\textcolor[RGB]{220,220,220}{\hrulefill}
+\tline
 
-\nointerlineskip
+The Truth and Reconciliation Commission of Canada (TRC) was officially launched in 2008 as part of the Indian Residential Schools Settlement Agreement (IRSSA). Intended to be a process that would guide Canadians through the difficult discovery of the facts behind the residential school system, the TRC was also meant to lay the foundation for lasting reconciliation across Canada.
+
+The final report, Honouring the Truth, Reconciling for the Future, documents the tragic experiences of approximately 150,000 Canadian residential school students. Many of these children were sexually and physically abused. The commission also found that approximately 3,200 residential school students died of malnourishment, tuberculosis and other diseases caused by poor living conditions. Justice Sinclair argued that this number is likely higher, perhaps 5 to 10 times as much; however, due to poor burial records, the commission could not report a more accurate number.
+
+The Trudeau government began working towards one of the recommendations in December 2015 — a national inquiry into missing and murdered Indigenous women and girls. It is estimated that some of the commission’s other recommendations, such as improving Aboriginal access to post-secondary schooling, reducing the number of Indigenous children in foster care, increasing CBC/Radio-Canada funding for Aboriginal programs, and addressing the health-care gap between Aboriginal peoples and other Canadians, will cost the federal government tens of millions of dollars. Implementing these recommendations will also require a government fully committed to change; in the words of Justice Sinclair, “Canada must move from apology to action.”
+
 
