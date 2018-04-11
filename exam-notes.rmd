@@ -13,14 +13,16 @@ output: pdf_document
 \nointerlineskip}
 \tableofcontents
 
-# Wendat and Anishinaabe make their first alliance with Champlain and the French (battle at "Lake Champlain")
+# Event Summaries
+
+## Wendat and Anishinaabe make their first alliance with Champlain and the French (battle at "Lake Champlain")
 
 \tline
 
 During the summer of 1609, Samuel de Champlain attempted to form better relations with the local native tribes. He made alliances with the Wendat (called Huron by the French) and with the Algonquin, the Montagnais and the Etchemin, who lived in the area of the St. Lawrence River. These tribes demanded that Champlain help them in their war against the Iroquois, who lived further south. Champlain set off with 9 French soldiers and 300 natives to explore the Rivière des Iroquois (now known as the Richelieu River), and became the first European to map Lake Champlain. Having had no encounters with the Iroquois at this point many of the men headed back, leaving Champlain with only 2 Frenchmen and 60 natives.
 
 
-# Arrival of filles du roi, or King’s daughters
+## Arrival of filles du roi, or King’s daughters
 
 \tline
 
@@ -28,7 +30,7 @@ The King's Daughters (French: filles du roi; filles du roy) is a term used to re
 
 The women disembarked in Quebec City, Trois-Rivières, and Montreal. After their arrival, their time to find husbands varied greatly. For some, it was as short as a few months, while others took two or three years before finding an appropriate husband. For the process of choosing a husband, and the marriage, most couples would officially get engaged in church, with their priest and witnesses present.
 
-# Start of the Seven Years War
+## Start of the Seven Years War
 
 \tline
 
@@ -40,7 +42,7 @@ The war was driven by the commercial and imperial rivalry between Britain and Fr
 
 
 
-# Treaty of Niagara
+## Treaty of Niagara
 
 \tline
 
@@ -50,7 +52,7 @@ The Royal Proclamation of 1763 established the British definition of Indian Coun
 
 
 
-# End of the American Revolution
+## End of the American Revolution
 
 \tline
 
@@ -66,7 +68,7 @@ The main consequence for the British colonies to the north was the emergence of 
 
 The Revolution also triggered the exodus of more than 80,000 Loyalist refugees out of the United States, about half of whom migrated into Québec and the Maritimes. Loyalist settlement greatly influenced the politics and culture of what would eventually become the nation of Canada, and determined that its development would differ profoundly from the United States.
 
-# Treaty of Ghent
+## Treaty of Ghent
 
 \tline
 
@@ -76,7 +78,7 @@ What emerged from this peace was the survival of Upper and Lower Canada as part 
 
 
 
-# Rebellion in Lower Canada
+## Rebellion in Lower Canada
 
 \tline
 
@@ -86,19 +88,15 @@ The influence of the radicals in the colony was eventually undermined, and more 
 
 
 
-# Confederation (British North America Act)
+## Confederation (British North America Act)
 
 \tline
-
-### Overview
 
 The Constitution Act, 1867, originally known as the British North America Act (BNA Act) was the law passed by the British Parliament creating the Dominion of Canada at Confederation.
 
 The BNA Act was enacted on 29 March 1867. It provided for the union of three colonies — the Province of Canada (Ontario and Québec), Nova Scotia and New Brunswick — into a federal state with a parliamentary system modelled on that of Britain.
 
 Rupert's Land was acquired in 1870, and six provinces were added to the original four: Manitoba (1870), British Columbia (1871), Prince Edward Island (1873), Alberta and Saskatchewan (1905), and Newfoundland (1949).
-
-### Division of Power
 
 \begin{tabular}{| m{6cm} | m{7cm} |}
 \hline
@@ -123,7 +121,7 @@ make laws for "peace order and good government" & "Generally all matters of a me
 \hline
 \end{tabular}
 
-# Manitoba enters Confederation
+## Manitoba enters Confederation
 
 \tline
 
@@ -141,7 +139,7 @@ After a long standoff and lengthy negotiations in Ottawa, the resistance came to
 
 
 
-# Indian Act
+## Indian Act
 
 \tline
 
@@ -152,7 +150,7 @@ The Indian Act pertains only to First Nations peoples, not to the Métis or Inui
 
 
 
-# Year Canadian Pacific Railway completed
+## Year Canadian Pacific Railway completed
 
 \tline
 
@@ -160,7 +158,7 @@ The Canadian Pacific Railway company was incorporated in 1881. Its original purp
 
 While the railway was completed four years after the original 1881 deadline, it was completed more than five years ahead of the new date of 1891 that Macdonald gave in 1881. The successful construction of such a massive project, although troubled by delays and scandal, was considered an impressive feat of engineering and political will for a country with such a small population, limited capital, and difficult terrain. It was by far the longest railway ever constructed at the time. It had taken 12,000 men and 5,000 horses to construct the Lake section alone.
 
-# Election of Canada's first French-Canadian Prime Minister
+## Election of Canada's first French-Canadian Prime Minister
 
 \tline
 
@@ -172,7 +170,7 @@ The second more fruitful phase took place between 1891 and 1896; this was the pe
 
 
 
-# Continuous Journey Legislation
+## Continuous Journey Legislation
 
 \tline
 
@@ -182,11 +180,9 @@ The government enacted this legislation in response to a report submitted by Dep
 
 The continuous journey regulation allowed the government to restrict both Indian and Japanese immigration without specifying exclusion on the basis of race, nationality or ethnic origins. Canadian Pacific was the only shipping company offering direct steamship service from India to Canada, but following the passage of the regulation, the government prohibited the sale of through tickets to Canada.[5] The regulation also successfully closed off the Hawaiian route for Japanese immigration.
 
-# World War I
+## World War I
 
 \tline
-
-### Going to War
 
 The Canadian Parliament didn't choose to go to war in 1914. The country's foreign affairs were guided in London. So when Britain's ultimatum to Germany to withdraw its army from Belgium expired on 4 August 1914, the British Empire, including Canada, was at war, allied with Serbia, Russia, and France against the German and Austro-Hungarian empires.
 
@@ -212,7 +208,7 @@ The Canadian Parliament didn't choose to go to war in 1914. The country's foreig
 \hline
 \end{tabular}
 
-# Women get the right to vote in federal elections
+## Women get the right to vote in federal elections
 
 \tline
 
@@ -222,7 +218,7 @@ Once conscription was secured, the government began to argue that women had earn
 
 
 
-# Winnipeg General Strike
+## Winnipeg General Strike
 
 \tline
 
@@ -237,7 +233,7 @@ Though there had been no sign of violence, on June 5 the police commissioner ord
 On June 10 some 1800 "specials" fanned out across the city and descended on a crowd gathered at Portage and Main. They rode into the crowds swinging their clubs. The violent confrontation allowed the press to vent its spleen on the "aliens," "bohunks" and "foreigners" who had caused this "riot."
 
 
-# Chinese Immigration Act (version known as the Chinese Exclusion Act)
+## Chinese Immigration Act (version known as the Chinese Exclusion Act)
 
 \tline
 
@@ -245,7 +241,7 @@ The Chinese Immigration Act of 1923, known also as the Chinese Exclusion Act, ba
 
 After the completion of the CPR, agitation against the “yellow peril” gathered momentum, resulting in over 100 provincial laws and policies that restricted the rights of Chinese residents. (The “yellow peril” reference to Chinese and Japanese people originated in the late 1800s after they arrived as labourers in the United States and Canada; it expressed Western prejudice towards East Asian immigrants.) The Canadian government’s most racist and exclusionary law, however, was the Chinese Immigration Act of 1885. Under that law, a $50 head tax was levied on all Chinese immigrants. The head tax was increased to $100 in 1900 and to $500 in 1903. It became clear that this punitive entry fee did not discourage Chinese immigration, as intended. The Chinese population tripled during the head-tax era, from 13,000 in 1885 to 39,587 in 1921. A harsher solution was required: exclusion.
 
-# The Persons Case decision
+## The Persons Case decision
 
 \tline
 
@@ -253,7 +249,7 @@ The Persons Case (officially Edwards v. A.G. of Canada) was a constitutional rul
 
 
 
-# Start of the Great Depression in Canada
+## Start of the Great Depression in Canada
 
 \tline
 
@@ -267,7 +263,7 @@ In Canada the changes were dramatic. Between 1929 and 1933 the country’s Gross
 
 
 
-# Years of World War II (range)
+## Years of World War II (range)
 
 \tline
 
@@ -304,7 +300,7 @@ The Second World War was a defining event in Canadian history, transforming a qu
 \hline
 \end{tabular}
 
-# First Nations Right to Vote in Federal Elections Without Loss of Treaty Status
+## First Nations Right to Vote in Federal Elections Without Loss of Treaty Status
 
 \tline
 
@@ -314,7 +310,7 @@ Non-status Indians received full voting rights at the provincial level, starting
 
 
 
-# Signing of Autopact
+## Signing of Autopact
 
 \tline
 
@@ -328,7 +324,7 @@ It was a short document that sought “the creation of a broader market for auto
 
 
 
-# White Paper "Statement of the Government of Canada on Indian Policy" 
+## White Paper "Statement of the Government of Canada on Indian Policy" 
 
 \tline
 
@@ -338,14 +334,14 @@ Trudeau and Chrétien’s White Paper proposed to eliminate “Indian” as a di
 
 
 
-# Repatriation of the Constitution
+## Repatriation of the Constitution
 
 \tline
 
 In 1982 Canada "patriated" its Constitution, transferring the country's highest law, the British North America Act, from the authority of the British Parliament — a connection from the colonial past ­— to Canada's federal and provincial legislatures.
 
 
-# 2nd referendum on Sovereignty
+## 2nd referendum on Sovereignty
 
 \tline
 
@@ -353,13 +349,13 @@ The 1995 Quebec independence referendum was the second referendum to ask voters 
 
 
 
-# Signing of NAFTA 
+## Signing of NAFTA 
 
 \tline
 
 The North American Free Trade Agreement (NAFTA) is an economic pact between Canada, the United States and Mexico. Designed to eliminate all trade and investment barriers between the three countries, the agreement came into force on 1 January 1994. In addition to being one of the most ambitious trade agreements in history, NAFTA also created the world’s largest free trade area. It brought together two wealthy developed countries (Canada and the United States) with a less developed state (Mexico). The agreement built on the earlier Canada-US Free Trade Agreement (CUSFTA), which came into effect on 1 January 1989. After NAFTA was signed, trade and investment relations between the three countries expanded rapidly, but political co-operation remained weak. NAFTA continues to be controversial, particularly in the United States. Recently elected US president Donald Trump has threatened to renegotiate or cancel the deal.
 
-# Nunavut becomes a territory
+## Nunavut becomes a territory
 
 \tline
 
@@ -369,7 +365,7 @@ First the NWT Inuit Land Claims Commission (1977), then the Nunavut Land Claims 
 
 An agreement-in-principle on the land-claims settlement was finally reached in 1990. Members of both the Tunngavik Federation and federal negotiating teams signed this document, the “Nunavut Land Claims Agreement” (NLCA), in September of 1992. It was then put to a plebiscite in October of 1992 and saw a record turnout of voters, who passed the agreement with an overwhelming majority of 84.7 per cent. The Nunavut Land Claims Agreement Act — the largest Indigenous land-claims settlement in Canadian history — which ratified the agreement, and the Nunavut Act, which created the new territory, were both passed on 10 June 1993.
 
-# 9/11
+## 9/11
 
 \tline
 
@@ -383,7 +379,7 @@ These two elements of the legislation had a sunset clause of five years; the res
 
 
 
-# Civil Marriage Act
+## Civil Marriage Act
 
 \tline
 
@@ -391,7 +387,7 @@ The Civil Marriage Act (full title: An Act respecting certain aspects of legal c
 
 
 
-# Truth and Reconciliation Commission Final Report 
+## Truth and Reconciliation Commission Final Report 
 
 \tline
 
@@ -401,4 +397,272 @@ The final report, Honouring the Truth, Reconciling for the Future, documents the
 
 The Trudeau government began working towards one of the recommendations in December 2015 — a national inquiry into missing and murdered Indigenous women and girls. It is estimated that some of the commission’s other recommendations, such as improving Aboriginal access to post-secondary schooling, reducing the number of Indigenous children in foster care, increasing CBC/Radio-Canada funding for Aboriginal programs, and addressing the health-care gap between Aboriginal peoples and other Canadians, will cost the federal government tens of millions of dollars. Implementing these recommendations will also require a government fully committed to change; in the words of Justice Sinclair, “Canada must move from apology to action.”
 
+# Old Exam
 
+## Identify the century in which the following events occurred:
+
+\begin{tabular}{| m{7cm} | m{7cm} |} 
+\hline 
+Founding of the colony of New France & 17th century \\
+\hline
+Treaty of Niagara & 18th century \\
+\hline
+American Revolution & 18th century \\
+\hline
+Confederation & 19th century \\
+\hline
+Indian Act & 19th century \\
+\hline
+Building of the CPR & 19th century \\
+\hline
+World War I & 20th century \\
+\hline
+Women get the right to vote in federal elections & 20th century \\
+\hline
+Great Depression & 20th century \\
+\hline
+Asbestos Strike & 20th century \\
+\hline
+Quiet Revolution & 20th century \\
+\hline
+NAFTA & 20th century \\
+\hline
+Civil Marriage Act & 21st century \\
+\hline
+\end{tabular}
+
+## Fill in the blanks:
+
+1. The Head of State in Canada is the *Queen*
+2. The Head of Government for Canada is the *Prime Minister*
+3. The current Prime Minister of Canada is *Justin Trudeau*
+4. He/she is the head of which political party: *The Liberal Party of Canada*
+5. The current Official Opposition is the *Conservative Party*
+6. The supreme court has *9* (number) justices.
+7. On the Supreme Court, *3* (number) of justices must be from Quebec.
+8. As of 2016, the population of Canada was roughly *36 million*
+9. According to the Elections Act, federal elections in Canada must be held roughly every *4* years.
+10. Under the *Charter of Rights and Freedoms* (name of document), all Canadians have fundamental freedoms, plus democratic, mobility, legal, equality, official language and minority language education rights.
+11. Canada's international borders took their present outline only in 1949 when *Newfoundland and Labrador* (name of province or territory), a former British colony, joined Canada.
+12. Canada's internal provincial and territorial borders only took their current configuration quite recently in 1999 with the addition of Nunavut.
+
+## Multiple Choice
+1. As of the 2011 census, which religion did more than half (58% percent) of Canadians practice?
+a) Judaism
+b) Islam
+d) **Christianity**
+e) Buddhism
+f) no religion
+2. According to the wording of the Charter of Rights and Freedoms, Canada is founded upon:
+a) the principle that might makes right
+b) principles that recognize the supremacy of God and the rule of law
+c) the ten commandments
+d) **important fundamental freedom.**
+e) none of the above
+3. With respect to Aboriginal rights and freedoms, the Charter of Rights and Freedoms, states
+that:
+a) no such rights are not recognized
+b) the Charter cannot take away any existing rights as recognized by the Royal Proclamation of
+1763 or by subsequent treaties or land claims
+c) that Aboriginal people have the right to live on reserve lands
+d) **none of the above. **
+4. What sentence best describes the relationship of the Province of Quebec to the Canadian
+Charter of Rights and Freedoms?
+a) **Quebec did not sign the Charter but is still legally subject to it.**
+b) Quebec has its own Charter of Values and so can ignore the Canadian Charter of Rights and
+Freedoms.
+c) Quebec is a full signatory to the Canadian Charter of Rights and Freedoms.
+d) none of the above
+5. Under the current version of the National Defence Act, who has the power to order Canadian
+troops to deal with internal matters, such as a national disaster, or a rebellion, or riot?
+a) the Prime Minister
+b) the Provincial Premier
+c) the Governor-General
+d) the Prime Minister, after a majority vote by the cabinet in favour of the action
+e) the Attorney General of the Province needing aid requests the military but the Chief of Defense
+Staff alone determines the appropriate level of response, whether that be "a master corporal on a
+snowmobile or an entire division of troops."
+6. What number below best approximates the total number of permanent immigrants to New
+France between 1608 and 1759 (those who came and stayed):
+a) **8500**
+b) 70,000
+c) 250,000
+d) 500,000
+7. The Quebec Act of 1774 is a significant British Act of Parliament that:
+a) extended the jurisdiction of Quebec into the Great Lakes region, angering American colonists
+who wanted to claim the region as their own
+b) restored the seigneurial system as the system of land tenure in Quebec
+c) protected the Catholic church in Quebec and permitted the church to collect tithes at a time
+when Britain itself was strongly anti-Catholic
+d) allowed Catholics to serve in public office and on juries without having to renounce their
+religion
+e) recognized and allowed French civil law in Quebec, which still applies today
+f) **all of the above**
+8. The last invasion of a foreign army on Canadian soil occurred during what war:
+a) The Seven Years War
+b) **The War of 1812**
+c) The Boer War
+d) World War I
+e) none of the above
+9. In the War of 1812, how were Canada's Indigenous allies rewarded for their crucial military
+support that helped to prevent the invasion of the United States:
+a) **they effectively received no benefit or recognition.**
+b) their actions were recognized in the Treaty of Ghent that ended the conflict.
+c) the Six Nations were allowed to return to the United States.
+d) warriors received a cash reward.
+10. Immigrants came to British America between 1815 and 1840 chiefly to obtain which of the
+following?
+a) land
+b) jobs
+c) **refuge from political crises**
+d) religious freedom
+11. Railways changed life for British North Americans in the mid-19th
+ century by:
+a) removing the seasonal restrictions on travel and economic activity
+b) greatly speeding up travel times between cities and towns
+c) greatly expanding fresh food choices, as dairy products for example could into the city
+on a daily basis
+d) increasing the rate of exchange of political ideas, as daily newspapers were exchanged
+all over the colony
+e) **all of the above **
+12. What new eCommunications technology saw widespread use by the 1850s, changing both
+lives and economies with the rapid transmission of information?
+a) telephone
+b) **telegraph**
+c) radio
+d) the Internet
+13. Which are federal responsibilities under section 91 of the British North America Act:
+a) **Indian Affairs, defense, navigation and shipping**
+b) Indian Affairs, health care, external affairs
+c) defense, education, bankruptcy
+d) taverns and other licenses, public works
+14. Macdonald's vision of "watertight federalism" in 1867 can be defined as
+a) a federal system in which provinces and the federal government cooperate and coordinate
+services
+b) a federal government which looks after the oceans, all navigable rivers and the fisheries
+c) a system in which the federal government does not interfere in the provinces' areas of control
+as defined under section 92 of the BNA Act, and the provinces do not interfere with the federal
+government
+d) **none of the above**
+15. Quebec's view of its place in Confederation in 1867 was
+a) a province equal to all the others
+b) a distinct society with a different official language
+c) **as having a distinct and separate nationality, forming a state within a state**
+d) none of the above
+16. Prohibition in Canada:
+a) grew out of temperance movements in the late 19th
+ century
+b) were protested by many who just "wanted a beer."
+c) reached its peak during World War 1
+d) was effectively over by the 1920s, allowing Canadian liquor manufactures the opportunity to
+supply illegal alcohol to the underground US Market, during its Prohibition period, which
+extended through the 1920s
+e) **all of the above**
+17. The Great Depression in Canada caused tremendous hardship because
+a) there was mass unemployment
+b) the country was at war
+c) **there was insufficient government relief/support for the unemployed**
+d) none of the above 
+18. Canada gained control over its external affairs and international treaties, effectively gaining
+its independence, by what Act of British Parliament?
+a) The Royal Proclamation of 1763
+b) The British North American Act of 1867
+c) The Statute of Westminster, 1931
+d) **The Canada Act, 1982**
+e) none of the above
+19. In which war did more than 1 million Canadians serve directly in some aspect of the
+military?
+a) the Boer War of 1899-1902
+b) the First World War
+c) **the Second World War**
+d) the Korean War
+20. The North Atlantic Treaty Organization:
+a) **a military defense alliance of Canada, the United States, and many European countries.**
+b) a trade agreement between North America and Western Europe
+c) a fishing treaty between Newfoundland, Greenland and Iceland
+d) and environmental protection treaty that bans whaling in Atlantic waters.
+e) none of the above.
+21. What crucial trade deal did Prime Minister Pearson and US President Johnson negotiate in
+1965?
+a) NAFTA
+b) Canada/US Free Trade Agreement
+c) **The Autopact**
+d) No agreement. They did not get along and were never able to make an agreement on trade.
+22. From 1948-1988, what percentage of total UN peacekeeping forces were Canadian?
+a) 1%
+b) 50%
+c) 80%
+d) 10%
+23. In which war did women serve in direct combat roles for the first time?
+a) the Boer War of 1899-1902
+b) the First World War, 1914-1918
+c) the Second World War, 1939-194
+d) **the War in Afghanistan. 2001-2014**
+
+## Political Cartoons
+
+For each cartoon:
+
+a) describe the historical event, moment or issue which the cartoon is about (2 marks),
+b) explain the message or point that the artist was making. (2 marks),
+c) situate the cartoon in its historical context (2 marks). 
+
+![](cartoons/toon2.png){ width=60% }
+/  
+
+[Left horse reads "English Influence", right horse reads "French Influence"]
+
+From 1869 to 1885, Riel was the political leader of the Métis. For sixteen years he led them
+through their struggle to secure a place in western Canadian society. His activities eventually led to the 1885 North West Rebellion, an event that raised shocking questions about the place of minority peoples in Canada. 
+
+On March 19, 1885, Riel formed a provisional government at Batoche in order to attain
+acknowledgement from Ottawa. English Canada was very angered with those actions, as they
+were not willing to understand the validity of the Métis and First Nations’ claim. Soon, they called on the MacDonald government to act. MacDonald sent the Canadian militia to Batoche, Calgary and Battleford, Saskatchewan. The Indian and Métis resistance could not survive against the strength of the Canadian militia. On May 12, 1885, the rebellion ended when Riel gave himself up to the North West Mounted Police. He was tried in Regina where he was found guilty of treason and sentenced to death. He was hanged on November 16, 1885, in the North West Mounted Police quarters in Regina. 
+
+The cartoon suggests that McDonald was in a predicament over the execution of Riel. Riel's
+execution was postponed 3 times: twice to allow appeals to higher courts, then a third time for a fuller medical examination of his alleged insanity. The appeals failed and Riel was hanged at Regina on November 16th, 1885. Many would argue that MacDonald’s decision to hang Riel was purely politically driven, and a result of the pressure from English Canada. 
+
+![](cartoons/toon3.png){ width=40% }
+/  
+
+The struggle over the rights of francophones in Manitoba to receive an education in their mother tongue and their religion is regarded as one of the most important “school crises” in Canadian history, with major short-term and long-term consequences.
+
+In January 1896, the Conservative federal government of Mackenzie Bowell tabled a bill that would have provided some redress for Manitoba Catholics’ grievances. But the Liberal party under Wilfrid Laurier launched a ferocious campaign to prevent the bill from being passed before the government called the election that was expected to be held in June of that same year. Laurier, considering the Jesuits’ Estates Act in Québec (which had drawn vehement reactions from the Orange Order in Ontario) together with the school questions in New Brunswick and Manitoba, proposed what he called “the sunny way” — achieving a solution through diplomatic negotiations rather than imposing one through legislation.
+
+The cartoon is criticizing Laurier for not engaging with the Manitoba school question directly, showing him literally "walking around the question". This is likely in response to Laurier wanting to achieve a solution through negotiation rather than legislation, which comes off as non-committal and ambiguous.
+
+
+![](cartoons/toon4.png){ width=80% }
+/  
+![](cartoons/toon5.png){ width=80% }
+/  
+![](cartoons/toon6.png){ width=60% }
+/  
+![](cartoons/toon7.png){ width=80% }
+/  
+
+## Short Answers
+
+1. In response to President Trump's initial efforts to halt travel to the United States from
+seven Muslim majority countries, and to suspend the arrival of refugees, Prime Minister
+Justin Trudeau tweeted on 28 January 2017 "To those fleeing persecution, terror & war,
+Canadians will welcome you, regardless of your faith. Diversity is our strength." Has
+this historically been true in Canada? For how long? Discuss, by referring Canadian
+immigration history.
+2. Is Canada really a "northern nation?" Discuss, by referring to both Canada's current
+demographic and geographic patterns, and Canada's historic relationships with the north.
+3. How would you characterize French/English relations in Canada since Confederation?
+Discuss with reference to specific historical events.
+4. Is Canada a product of war? Discuss with reference to specific conflicts and/or periods
+of peace.
+5. To what extent have decisions by the Supreme Court of Canada since the 1982 Charter
+of Rights and Freedoms fundamentally changed Canadian Society? Has the court been
+simply requiring the law to keep up with changes that had already happened, or have
+major decisions (including reference decisions such as the 2004 RE: Same Sex Marriage)
+been the impetus for societal change?
+6. Megaprojects and transportation infrastructure developments such as the trans-Canada
+railway and St. Lawrence Seaway, among others, and have arguably made Canada, but
+they have done so at a cost. Discuss.
+7. Canada did not achieve status as an Independent nation state on 1 July 1867. In your
+opinion, what date should be celebrated to mark that milestone? Discuss and make your
+case. 
