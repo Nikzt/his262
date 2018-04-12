@@ -15,14 +15,16 @@ output: pdf_document
 
 # Event Summaries
 
-## Wendat and Anishinaabe make their first alliance with Champlain and the French (battle at "Lake Champlain")
+# 17th Century
+
+## 1609: Wendat and Anishinaabe make their first alliance with Champlain and the French (battle at "Lake Champlain")
 
 \tline
 
 During the summer of 1609, Samuel de Champlain attempted to form better relations with the local native tribes. He made alliances with the Wendat (called Huron by the French) and with the Algonquin, the Montagnais and the Etchemin, who lived in the area of the St. Lawrence River. These tribes demanded that Champlain help them in their war against the Iroquois, who lived further south. Champlain set off with 9 French soldiers and 300 natives to explore the Rivière des Iroquois (now known as the Richelieu River), and became the first European to map Lake Champlain. Having had no encounters with the Iroquois at this point many of the men headed back, leaving Champlain with only 2 Frenchmen and 60 natives.
 
 
-## Arrival of filles du roi, or King’s daughters
+## 1663-1673: Arrival of filles du roi, or King’s daughters
 
 \tline
 
@@ -30,7 +32,10 @@ The King's Daughters (French: filles du roi; filles du roy) is a term used to re
 
 The women disembarked in Quebec City, Trois-Rivières, and Montreal. After their arrival, their time to find husbands varied greatly. For some, it was as short as a few months, while others took two or three years before finding an appropriate husband. For the process of choosing a husband, and the marriage, most couples would officially get engaged in church, with their priest and witnesses present.
 
-## Start of the Seven Years War
+
+# 18th Century
+
+## 1756: Start of the Seven Years War
 
 \tline
 
@@ -42,7 +47,7 @@ The war was driven by the commercial and imperial rivalry between Britain and Fr
 
 
 
-## Treaty of Niagara
+## 1764: Treaty of Niagara
 
 \tline
 
@@ -52,7 +57,7 @@ The Royal Proclamation of 1763 established the British definition of Indian Coun
 
 
 
-## End of the American Revolution
+## 1776: End of the American Revolution
 
 \tline
 
@@ -68,7 +73,10 @@ The main consequence for the British colonies to the north was the emergence of 
 
 The Revolution also triggered the exodus of more than 80,000 Loyalist refugees out of the United States, about half of whom migrated into Québec and the Maritimes. Loyalist settlement greatly influenced the politics and culture of what would eventually become the nation of Canada, and determined that its development would differ profoundly from the United States.
 
-## Treaty of Ghent
+
+# 19th Century
+
+## 1814: Treaty of Ghent
 
 \tline
 
@@ -78,7 +86,8 @@ What emerged from this peace was the survival of Upper and Lower Canada as part 
 
 
 
-## Rebellion in Lower Canada
+## 1837: Rebellion in Lower Canada
+
 
 \tline
 
@@ -88,7 +97,7 @@ The influence of the radicals in the colony was eventually undermined, and more 
 
 
 
-## Confederation (British North America Act)
+## 1867: Confederation (British North America Act)
 
 \tline
 
@@ -121,7 +130,7 @@ make laws for "peace order and good government" & "Generally all matters of a me
 \hline
 \end{tabular}
 
-## Manitoba enters Confederation
+## 1870: Manitoba enters Confederation
 
 \tline
 
@@ -139,7 +148,7 @@ After a long standoff and lengthy negotiations in Ottawa, the resistance came to
 
 
 
-## Indian Act
+## 1876: Indian Act
 
 \tline
 
@@ -150,7 +159,7 @@ The Indian Act pertains only to First Nations peoples, not to the Métis or Inui
 
 
 
-## Year Canadian Pacific Railway completed
+## 1885: Year Canadian Pacific Railway completed
 
 \tline
 
@@ -158,7 +167,7 @@ The Canadian Pacific Railway company was incorporated in 1881. Its original purp
 
 While the railway was completed four years after the original 1881 deadline, it was completed more than five years ahead of the new date of 1891 that Macdonald gave in 1881. The successful construction of such a massive project, although troubled by delays and scandal, was considered an impressive feat of engineering and political will for a country with such a small population, limited capital, and difficult terrain. It was by far the longest railway ever constructed at the time. It had taken 12,000 men and 5,000 horses to construct the Lake section alone.
 
-## Election of Canada's first French-Canadian Prime Minister
+## 1896: Election of Canada's first French-Canadian Prime Minister
 
 \tline
 
@@ -170,7 +179,10 @@ The second more fruitful phase took place between 1891 and 1896; this was the pe
 
 
 
-## Continuous Journey Legislation
+# 20th Century
+
+
+## 1908: Continuous Journey Legislation
 
 \tline
 
@@ -180,13 +192,13 @@ The government enacted this legislation in response to a report submitted by Dep
 
 The continuous journey regulation allowed the government to restrict both Indian and Japanese immigration without specifying exclusion on the basis of race, nationality or ethnic origins. Canadian Pacific was the only shipping company offering direct steamship service from India to Canada, but following the passage of the regulation, the government prohibited the sale of through tickets to Canada.[5] The regulation also successfully closed off the Hawaiian route for Japanese immigration.
 
-## World War I
+## 1904-1908: World War I
 
 \tline
 
 The Canadian Parliament didn't choose to go to war in 1914. The country's foreign affairs were guided in London. So when Britain's ultimatum to Germany to withdraw its army from Belgium expired on 4 August 1914, the British Empire, including Canada, was at war, allied with Serbia, Russia, and France against the German and Austro-Hungarian empires.
 
-### Defining Moments For Canada
+**Defining Moments For Canada**
 
 \begin{tabular}{ |m{7cm}|m{7cm}| }
 \hline
@@ -208,7 +220,7 @@ The Canadian Parliament didn't choose to go to war in 1914. The country's foreig
 \hline
 \end{tabular}
 
-## Women get the right to vote in federal elections
+## 1918: Women get the right to vote in federal elections
 
 \tline
 
@@ -218,7 +230,7 @@ Once conscription was secured, the government began to argue that women had earn
 
 
 
-## Winnipeg General Strike
+## 1919: Winnipeg General Strike
 
 \tline
 
@@ -233,7 +245,7 @@ Though there had been no sign of violence, on June 5 the police commissioner ord
 On June 10 some 1800 "specials" fanned out across the city and descended on a crowd gathered at Portage and Main. They rode into the crowds swinging their clubs. The violent confrontation allowed the press to vent its spleen on the "aliens," "bohunks" and "foreigners" who had caused this "riot."
 
 
-## Chinese Immigration Act (version known as the Chinese Exclusion Act)
+## 1923: Chinese Immigration Act (version known as the Chinese Exclusion Act)
 
 \tline
 
@@ -241,7 +253,7 @@ The Chinese Immigration Act of 1923, known also as the Chinese Exclusion Act, ba
 
 After the completion of the CPR, agitation against the “yellow peril” gathered momentum, resulting in over 100 provincial laws and policies that restricted the rights of Chinese residents. (The “yellow peril” reference to Chinese and Japanese people originated in the late 1800s after they arrived as labourers in the United States and Canada; it expressed Western prejudice towards East Asian immigrants.) The Canadian government’s most racist and exclusionary law, however, was the Chinese Immigration Act of 1885. Under that law, a $50 head tax was levied on all Chinese immigrants. The head tax was increased to $100 in 1900 and to $500 in 1903. It became clear that this punitive entry fee did not discourage Chinese immigration, as intended. The Chinese population tripled during the head-tax era, from 13,000 in 1885 to 39,587 in 1921. A harsher solution was required: exclusion.
 
-## The Persons Case decision
+## 1928: The Persons Case decision
 
 \tline
 
@@ -249,7 +261,7 @@ The Persons Case (officially Edwards v. A.G. of Canada) was a constitutional rul
 
 
 
-## Start of the Great Depression in Canada
+## 1929: Start of the Great Depression in Canada
 
 \tline
 
@@ -263,7 +275,7 @@ In Canada the changes were dramatic. Between 1929 and 1933 the country’s Gross
 
 
 
-## Years of World War II (range)
+## 1939-1945: Years of World War II (range)
 
 \tline
 
@@ -300,7 +312,7 @@ The Second World War was a defining event in Canadian history, transforming a qu
 \hline
 \end{tabular}
 
-## First Nations Right to Vote in Federal Elections Without Loss of Treaty Status
+## 1949-1969: First Nations Right to Vote in Federal Elections Without Loss of Treaty Status
 
 \tline
 
@@ -310,7 +322,7 @@ Non-status Indians received full voting rights at the provincial level, starting
 
 
 
-## Signing of Autopact
+## 1965: Signing of Autopact
 
 \tline
 
@@ -324,7 +336,7 @@ It was a short document that sought “the creation of a broader market for auto
 
 
 
-## White Paper "Statement of the Government of Canada on Indian Policy" 
+## 1969: White Paper "Statement of the Government of Canada on Indian Policy" 
 
 \tline
 
@@ -334,14 +346,14 @@ Trudeau and Chrétien’s White Paper proposed to eliminate “Indian” as a di
 
 
 
-## Repatriation of the Constitution
+## 1982: Repatriation of the Constitution
 
 \tline
 
 In 1982 Canada "patriated" its Constitution, transferring the country's highest law, the British North America Act, from the authority of the British Parliament — a connection from the colonial past ­— to Canada's federal and provincial legislatures.
 
 
-## 2nd referendum on Sovereignty
+## 1995: 2nd referendum on Sovereignty
 
 \tline
 
@@ -349,13 +361,13 @@ The 1995 Quebec independence referendum was the second referendum to ask voters 
 
 
 
-## Signing of NAFTA 
+## 1994: Signing of NAFTA 
 
 \tline
 
 The North American Free Trade Agreement (NAFTA) is an economic pact between Canada, the United States and Mexico. Designed to eliminate all trade and investment barriers between the three countries, the agreement came into force on 1 January 1994. In addition to being one of the most ambitious trade agreements in history, NAFTA also created the world’s largest free trade area. It brought together two wealthy developed countries (Canada and the United States) with a less developed state (Mexico). The agreement built on the earlier Canada-US Free Trade Agreement (CUSFTA), which came into effect on 1 January 1989. After NAFTA was signed, trade and investment relations between the three countries expanded rapidly, but political co-operation remained weak. NAFTA continues to be controversial, particularly in the United States. Recently elected US president Donald Trump has threatened to renegotiate or cancel the deal.
 
-## Nunavut becomes a territory
+## 1999: Nunavut becomes a territory
 
 \tline
 
@@ -365,7 +377,10 @@ First the NWT Inuit Land Claims Commission (1977), then the Nunavut Land Claims 
 
 An agreement-in-principle on the land-claims settlement was finally reached in 1990. Members of both the Tunngavik Federation and federal negotiating teams signed this document, the “Nunavut Land Claims Agreement” (NLCA), in September of 1992. It was then put to a plebiscite in October of 1992 and saw a record turnout of voters, who passed the agreement with an overwhelming majority of 84.7 per cent. The Nunavut Land Claims Agreement Act — the largest Indigenous land-claims settlement in Canadian history — which ratified the agreement, and the Nunavut Act, which created the new territory, were both passed on 10 June 1993.
 
-## 9/11
+# 21st Century
+
+
+## 2001: 9/11
 
 \tline
 
@@ -379,7 +394,7 @@ These two elements of the legislation had a sunset clause of five years; the res
 
 
 
-## Civil Marriage Act
+## 2005: Civil Marriage Act
 
 \tline
 
@@ -387,7 +402,7 @@ The Civil Marriage Act (full title: An Act respecting certain aspects of legal c
 
 
 
-## Truth and Reconciliation Commission Final Report 
+## 2015: Truth and Reconciliation Commission Final Report 
 
 \tline
 
@@ -634,14 +649,34 @@ The cartoon is criticizing Laurier for not engaging with the Manitoba school que
 
 ![](cartoons/toon4.png){ width=80% }
 /  
+
+This cartoon is about the Chinese Exclusion Act, which banned the entry of virtually all Chinese immigrants for 24 years. The immigration policy was put in place after the Chinese head tax was not enough to keep East Asian immigrants out of Canada. 
+
+The cartoon is clearly in favor of the immigration policy, as it states that white immigration will increase as a result of excluding orientals, and the white people are depicted much more positively than the Chinese so it can be concluded that the author believes this to be good. This outlook is reflective of the racism present in the general public opinion at the time, which was so prevalent that the immigration policy was explicitly racist in excluding certain ethnicities. 
+
 ![](cartoons/toon5.png){ width=80% }
 /  
 ![](cartoons/toon6.png){ width=60% }
 /  
+
+This cartoon is about the ongoing discussions of having free trade with the US, which eventually led to the signing of NAFTA. Critics in the United States and Canada argued that the negotiations were dominated by corporate interests, and that NAFTA would result in poor working conditions and low environmental standards as the three governments would compete for investment by lowering standards. Similarly, many feared losing high-paying manufacturing jobs in Canada and the United States to Mexico. 
+
+The cartoon is showcasing two people with a variety of bullet points describing things about them. Most of the differences are arbitrary, but the final bullet point shows that those that are for free trade with the US have nothing personally at stake. By saying "Isn't worried about free trade eliminating Ray's job", it is implied that Andrew isn't worried not because it won't happen, but because it won't make a difference to him whether it does or not. 
+
 ![](cartoons/toon7.png){ width=80% }
 /  
 
-## Short Answers
+In 1986, Brian Mulroney's Progressive Conservative  government promised a space agency, but controversy quickly followed. Most Canadian space programs were headquartered in Ottawa, but Montreal quickly mounted an aggressive effort to have the new agency located in that city. This question, along with growing concern over the costs of Canada's contribution to what became the International Space Station, put the promise on the back burner as an election approached in 1988.
+
+The cartoon is criticizing the political process of getting the space agency set up, showing how it's being bogged down with the debates over where the headquarters should be located. It is also criticizing the lack of funding for the space agency, as it is depicting the space agency as a sad looking cheap trailer.
+
+##  Short Answers
+
+In one or two paragraphs:
+
+a) Answer the question with a thesis statement
+b) Provide historical examples as evidence to support your statement
+c) Write in full sentences
 
 1. In response to President Trump's initial efforts to halt travel to the United States from
 seven Muslim majority countries, and to suspend the arrival of refugees, Prime Minister
@@ -651,10 +686,24 @@ this historically been true in Canada? For how long? Discuss, by referring Canad
 immigration history.
 2. Is Canada really a "northern nation?" Discuss, by referring to both Canada's current
 demographic and geographic patterns, and Canada's historic relationships with the north.
+
+Canada is a northern country geographically, but it is hardly a "northern nation". In order to discuss this further however, we must first define what it means to be a northern nation, and how this is different from being a country that happens to be northern geographically. Being located far north of the equator is of course a prerequisite to being a northern nation, but it also requires that the national identity and way of life for the majority of the population reflects this fact. 
+
+The only Canadians that could really call themselves northern are those that live in the northern parts of Canada. While it is true that some people do live in these parts, the national identity is dictated by the largest and most represented part of the population, which is mostly clustered around the most southern parts of Canada, namely the major cities in Ontario and Quebec. 
+
+In terms of Canada's relationship with the north historically, it has certainly been lackluster. It is clear why the British Crown did not focus on colonizing the northern-most parts of Canada; the land is cold and not suited for agriculture that would support the expansion of the colony. A key part of the northern identity is that being in the north is incredibly difficult, and the kind of lifestyle it supports was of no interest to the colonizers and immigrants of Canada whose descendants make up the majority of the population. 
+
+It is clear then, that calling Canada a northern nation is not representative of the Canadian national identity. While there are some, such as the Inuit, that can call themselves northerners, the nation as a whole is not reflective of these individuals. 
+
 3. How would you characterize French/English relations in Canada since Confederation?
 Discuss with reference to specific historical events.
 4. Is Canada a product of war? Discuss with reference to specific conflicts and/or periods
 of peace.
+
+While Canada, like most countries, has built much of its national identity in times of war such as the contributions toward the efforts in WWI, it would not be right to say Canada is a product of war. Canada is really a product of colonization. It could be argued that the process of Canada's colonization included a "war" on Aboriginal culture, and an ongoing culture war between the English and French, but when compared to the founding of the United States which really was a product of war through the American revolution, it would be disingenuous to equate Canada's founding to be that of a "product of war", especially considering the amount of war involved in the formation of most nations.
+
+
+
 5. To what extent have decisions by the Supreme Court of Canada since the 1982 Charter
 of Rights and Freedoms fundamentally changed Canadian Society? Has the court been
 simply requiring the law to keep up with changes that had already happened, or have

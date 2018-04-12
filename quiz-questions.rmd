@@ -1,0 +1,328 @@
+---
+title: HIS262 Quiz Questions + Answers
+output: pdf_document
+---
+
+According to Statistics Canada, Canada's population in October of 2016 is estimated to be what:
+
+ * 350 million
+ * 1 billion
+ * 12 million
+ * \textbf{ 36.4 million}
+
+	
+Canada's internal provincial and territorial borders only took their current configuration quite recently in 1999 with
+
+ * \textbf{ the creation of Nunavut Territory out of the eastern portion of the formerly much larger Northwest Territories}
+ * the division of the Province of Buffalo into the provinces of Alberta and Saskatchewan
+ * the expansion of the 200 nautical mile Economic Zone around the Arctic Ocean
+ * none of the above.
+
+Canada's international borders took their present outline only in 1949 with
+
+ * \textbf{ the former British colony of Newfoundland joining Canada.}
+ * the creation of Nunavut Territory
+ * the addition of Greenland to Canada
+ * Alaska entering Confederation
+ * none of the above.
+
+	
+According to Statistics Canada's data from the 2011 census (the most recent full census), what is the most common ethnic origin (ancestry) of the Canadian population?
+
+ * French
+ * \textbf{ British}
+ * Canadian
+ * Ukrainian
+ * Aboriginal
+ 
+	
+The study of Canadian history, as conventionally taught in Canadian universities and in secondary (high) schools, is usually considered into two parts (that is, having two major periodizations), which are:
+
+ * Pre/Post World War II (1939-1945)
+ * Pre/Post The Proclamation of 1763
+ * \textbf{ Pre/Post Confederation (1867)}
+ * Pre/Post the American Revolution (1776-1783)
+ * none of the above
+
+	
+Our course, HIS262S: Canada-A Short History of Here covers which time period?"
+
+ * 1867 to the present
+ * 1500 to 1867
+ * 1700 to 1945
+ * \textbf{ 1500 to the present}
+ * none of the above.
+
+As of the 2011 census (most recent full census), which religion did more than half (58% percent) of Canadians practice?
+
+ * Judaism
+ * no religion
+ * Islam
+ * \textbf{ Christianity}
+ * Buddhism
+
+	
+The academic discipline of history as taught in universities:
+
+ * really began in 17th century
+ * focused, by the 19th century, on the development of narratives which explained the origins of the nation state and their leaders
+ * in the 20th century developed more complex analytical tools, including by the 1960s the rise of social history that looked at the lives of ordinary people and used computers to analyse and tabulate data from census, birth, marriage and death records
+ * developed more recently new methods and sub-disciplines including cultural history
+ * none of the above
+ * \textbf{ all of the above}
+
+
+The scholarly study of history primarily involves:
+
+ * the study of the past using written documents
+ * the study of stories (narratives) about the past
+ * \textbf{ the analysis of primary sources in order to make an evidenced-based argument about the lived experiences of people}
+ * the memorization of dates
+ * none of the above
+ * all of the above
+
+	
+According to Statistics Canada's 2011 census (the most recent full census), the most common language spoken at home in Canada (at 58%) is
+
+ * \textbf{ English}
+ * French
+ * an Aboriginal Language
+ * none of the above.
+
+The history of slavery in what is now Canada is best described as:
+
+ * non-existent. Canada does not have a history of slavery.
+ * Involved First Nations only, and only until 1709.
+ * Began with First Nations being enslaved in the seventeenth century, was legalized in New France by the Code Noir in 1709 which permitted the importation and sale of enslaved Africans, and continued until it was made illegal before Confederation.
+ * \textbf{ complex. While it began with First Nations being enslaved in the seventeenth century, and was legalized in New France by the Code Noir in 1709 (which permitted the importation and sale of enslaved Africans and their descendants), the colony of Upper Canada was the first British colony to prohibit slavery under Lieutenant Governor John Graves Simcoe, and Upper Canada became the terminus point on the Underground Railway, through which those enslaved could achieve freedom.}
+ * none of the above.
+
+In reference to Aboriginal peoples and Aboriginal title to land, the Treaty of Paris of 1763:
+
+ * explicitly recognized Aboriginal title.
+ * \textbf{ made no mention of Aboriginal title, or France's former Aboriginal allies}
+ * required the British Crown to buy land from Aboriginal peoples directly
+ * said that it was ok if American colonists wanted to settle on Aboriginal land
+ * none of the above
+
+
+What number below best approximates the total number of permanent immigrants to New France between 1608 and 1759 (those who came and stayed):
+
+ * \textbf{ 8500}
+ * 70,000
+ * 250,000
+ * 500,000
+
+	
+In the War of 1812, how were Canada's Indigenous allies rewarded for their crucial military support that helped to prevent the invasion of the United States:
+
+ * \textbf{ they effectively received no benefit or recognition.}
+ * their actions were recognized in the Treaty of Ghent
+ * the Six Nations were allowed to return to the United States.
+ * warriors received a cash reward.
+
+The Treaty of Niagara of 1764
+
+ * \textbf{ was significant because it was here that France's former aboriginal allies entered into an alliance relationship (the Covenant Chain) with the British, forming the basis for future land sale treaties}
+ * extended the jurisdiction of Quebec into the Great Lakes region
+ * allowed American colonists to settle as far west as the Ohio River
+ * ensured American colonists access to Great Lakes fishing rights
+ * none of the above.
+
+	
+By 1855, what major political development was achieved in all the British North American colonies:
+
+ * votes for women
+ * the secret ballot
+ * representation by population
+ * \textbf{ responsible government - in which the executive council of the colony was drawn from and was answerable to the legislative assemblies of each.}
+
+	
+Which British North American colony remained outside Confederation until 1949?
+
+ * Prince Edward Island
+ * Nova Scotia
+ * Canada West
+ * \textbf{ Newfoundland}
+
+The colony of British Columbia was enticed to join Confederation by:
+
+ * \textbf{ completion of a trans-continental railway in ten years}
+ * a lower income tax rate
+ * the promise of new shipbuilding facilities
+ * a cash donation
+
+The Kawsenta Wampum Belt establishes what principles which were to govern relations between the Haudenosaunee (Iroquois/Six Nations Confederacy) and European newcomers?
+
+ * That the Haudenosaunee would become subject of the English king.
+ * That the Haudenosaunee would adopt the newcomers into their own society.
+ * \textbf{ That they would peacefully co-exist and respect one another's autonomy and distinct wyas.}
+ * none on the above
+
+Which are federal responsibilities under section 91 of the British North America Act:
+
+ * \textbf{ Indian Affairs, defense, navigaton and shipping}
+ * Indian Affairs, defense, external affairs
+ * defense, education, bankruptcy
+ * taverns and other licenses, public works
+
+Macdonald's vision of "watertight federalism" (of what the relations between the federal government and the provinces should be) in 1867 can be defined as
+
+
+
+Answers:	
+ * a federal system in which provinces and the federal government cooperate and coordinate services
+ * a federal goverment which looks after oceans, rivers and the fisheries
+ *  \textbf{}
+ * a system in which the federal government does not interfere in the provinices areas of control as defined under section 92 of the BNA Act
+ * none of the above
+
+The Great Depression in Canada caused tremednous hardship because
+
+ * there was mass unemployement
+ * the country was at war
+ * \textbf{ there was insufficient government relief/support for the unemployed}
+ * none of the above
+
+	
+The last invasion of a foreign army on Canadian soil occurred during what war:
+
+ * The Seven Years War
+ * \textbf{ The War of 1812}
+ * The Boer War
+ * World War I
+ * none of the above
+
+	
+Canadian troops/Canadian militia have been called out to deal with the following
+
+ * the Northwest Rebellion in 1885
+ * against mining strikes in the early 20th C
+ * the October crisis in 1970
+ * the Oka crisis in 1990
+ * \textbf{ all of the above}
+
+
+Who won a Nobel Peace Prize for the idea of creating the United Nations Emergency Force to deal with the 1956 Suez Canal Crisis?
+
+ * Prime Minister Louis St. Laurent
+ * \textbf{ External Affairs Minister Lester B. Pearson}
+ * Prime minister Pierre Trudeau
+ * Pope Pius XII
+ * none of above
+
+	
+In which war did women serve in direct combat roles for the first time?
+
+ * the Boer War of 1899-1902
+ * the First World War
+ * the Second World War
+ * the Korean War
+ * \textbf{ the War in Afghanistan}
+
+	
+What is the Jay Treaty?
+
+
+
+Answers:	
+ * an 1796 agreement between Britain and the new United States to allow Indigenous peoples to move freely across the Canada/US border that now bisected their territories
+ * a fishing treaty
+ * another name for the autopact
+ * the common name of the Canada/US Free Trade agreement of 1988
+ * none of the above
+
+
+What crucial trade deal did Prime Minister Pearson and US President Johnson negotiate in 1965:
+
+ * NAFTA
+ * Canada/us free trade agreement
+ * \textbf{ The autopact}
+ * None. The two men did not get along and were never able to make an agreement on trade.
+
+	
+In 1950, the federal Department of Citizenship and Immigration was created, combining what two previous branches ?
+
+ * \textbf{ the Nationalities Branch and the Indian Affairs Branch}
+ * the Nationalities Branch and the Citizenship Branch
+ * the Nationalities Branch and the Immigration Branch
+ * none of the above.
+
+Arctic lands can be found in the which Canadian territories and/or provincies:
+
+ * the Yukon, Northwest Territories, and Nunavut
+ * the Yukon, Northwest Territories, Nunavut, and Manitoba
+ * the Yukon, Northwest Territories, Nunavut, Quebec and Labrador
+ * \textbf{ the Yukon, Northwest Territories, and Nunavut. Manitoba, Ontario, Quebec and Labrador}
+ * Northwest Territories, Nunavut, Quebec, Labrador
+
+
+
+How did Canada respond to the plight of Jewish refugees fleeing Nazi Germany aboard the S.S. Louis in 1939?
+
+ * welcomed them with open arms
+ * \textbf{ refused to allow the boat to land, forcing their return to Europe}
+ * allowed them to stay in Canada only for the duration of the war.
+ * placed them in internment camps.
+ * none of the above.
+
+	
+Noted Arctic promoter Vilhjalmur Steffanson's book The Friendly Arctic (1921) suggested that Canada should
+
+ * \textbf{ encourage the development of the Arctic as a habitable region to be opened for development}
+ * encourage Arctic tourism by dogsled teams
+ * protect Arctic animal species by forbidding humans from the region.
+ * encourage global warming to open the northwest passage.
+ * none of the above.
+
+	
+Examples of environmental racism in Canada include:
+
+ * the mercury poisoning experienced by Grassy Narrows and Whitedog First Nations in Ontario beginning in the late 1960s.
+ * the building of chemical plants and oil refineries around Aamjiwnaang First Nation near Sarnia, Ontario, after WWII
+ * the location of slaughterhouses, night soil disposal pits and a fertilizer plant near Africfille, Nova Scotia in the second half of the 19th century.
+ * \textbf{ all of the above}
+
+The FLQ or October Crisis of 1970 is significant because
+
+ * Prime Minister Trudeau said "just watch me."
+ * Quebec declared its independence from Canada
+ * Terrorists bombed mailboxes
+ * \textbf{ It was the first time since the Second World War that the War Measures Act was invoked, and the first time in peacetime, to deal with a domestic issue.}
+
+	
+Quebec's view of its place in Confederation in 1867 was
+
+ * a province equal to all the others
+ * a distinct society with a different official language
+ * \textbf{ as having a distinct and separate nationality, forming a state within a state}
+ * none of the above
+
+	
+The Quiet Revolution was
+
+ * what Canadians call the Statute of Westminster
+ * what Canadians call the American Revolution
+ * \textbf{ the transformation of Quebec in the 1960s into a modern, more secular society, one in which francophones excercised increasing control over Quebec's economy and politics.}
+ * none of the above
+
+
+Which of the following are grounds protected against discrimination under the 1985 Canadian Human Rights Act?
+
+ * race
+ * religion
+ * disability
+ * a conviction for which a pardon has been granted or a record suspended
+ * none of the above
+ * \textbf{ all of the above}
+
+	
+In Nova Scotia, a 2013 report of the provincial human rights commission founded significantly higher experiences of racial profiling, service refusals and poor service against:
+
+ * women
+ * Scottish Canadians
+ * \textbf{ Indigenous and African Nova Scotias}
+ * Indigenous Nova Scotians
+ * people with a disability.
+
+
